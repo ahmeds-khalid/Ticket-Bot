@@ -18,4 +18,4 @@ bot.load_extension("ticket") # Load the TicketBot cog from ticket.py
 bot.load_extension("embed_builder")
 bot.load_extension("application")
 
-bot.run("MTI5MjkxMTg1NTYwOTU3NzYwNQ.Ggx6oI.r62NcJiHDK-MasjuF0Zij0SB0_qbRbVMX7PcwQ")
+bot.run(Token)
